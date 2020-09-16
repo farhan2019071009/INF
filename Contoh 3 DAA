@@ -1,0 +1,18 @@
+contoh 3 :
+Pseudecode dan Algoritma dari cara menghitung luas persegi panjang :
+panjang = 15 cm
+lebar   = 10 cm
+
+Pseudecode :
+deklarasi 
+	luas, panjang, lebar
+	panjang <- 15
+	lebar <- 10
+	luas = panjang*lebar
+	write <luas>
+
+Algoritma  :
+Langkah 1 : luas, panjang, lebar
+Langkah 2 : masukkan panjang = 15, lebar = 10
+langkah 3 : hitung luas = panjang*lebar
+langkah 4 : hasil luas
